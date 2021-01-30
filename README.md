@@ -24,7 +24,9 @@ Fitur Aplikasi :
 ✅ Setting target harian : santri bisa menentukan apa yang ingin dicapai, dari hafalannya setiap harinya. Santri bisa menentukan berapa ayat yang mau dihafal, surat dan ayat berapa saja yg jadi targetnya. 
 
 ✅ Setoran bersama Musyrif/guru secara virtual, dan koreksi bacaan. Bisa dilakukan via rekaman suara, yg sudah terintegrasi di aplikasi, atau melalui forum virtual yang bisa dilakukan bersama Musyrif dan rekan 1 grupnya 
+
 ✅ Grup setoran agar saling memotivasi : setiap santri bisa tergabung dg 1 grup setoran bersama Musyrif. Grup ini fungsinya untuk menjadi teman berfastabiqul khoirat, berlomba dalam kebaikan. Perjalanan menghafal Qur'an itu panjang, maka tidak mungkin diselesaikan seorang sendiri tanpa kawan. Grup bisa dibuat sendiri, atau mengikuti alur di sistem.
+
 ✅ Rekap koreksi hafalan : banyak santri yang ketika setoran mendapat koreksi kata kata atau ayat yg salah. Namun, dia kembali mengulang kesalahan yg sama di kesempatan setor berikutnya disebabkan dia lupa bagian mana saja yang ditegur oleh Musyrifnya. Untuk itu, fitur ini akan sangat bermanfaat bagi santri mengingat kembali bagian bagian yg dia masih salah atau tertukar. 
 
 ✅ Qur'an daily motivation : menghafal Qur'an bukanlah pekerjaan yang ringan, dan sebentar. Butuh energi dan baterai yang panjang umurnya. Maka, penting bagi setiap penghafal Qur'an mengisi hatinya dg nasehat dan motivasi secara rutin. Maka, fitur ini akan sangat bermanfaat untuk menjaga baterai itu tetap penuh hingga akhir perjalanan. 
