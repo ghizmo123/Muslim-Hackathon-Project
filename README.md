@@ -18,13 +18,19 @@ Semuanya insyaallah bisa dibantu dg aplikasi ini. Kamu juga akan tau sejauh mana
 Fitur Aplikasi :
 
 ✅Progres hafalanmu
+
 ✅Rekap / Grafik perkembangan hafalan. Santri akan mendapatkan progres berupa grafik perkembangan hafalan, apakah naik, stabil atau justru menurun. Hal ini untuk membuat santri bisa mengevaluasi diri, dan kembali menggenjot lagi semangat nya dalam menghafal. Selain itu, Musyrif pun memiliki akses mengecek progres setiap santrinya, untuk memantau, mengevaluasi dan memberikan tambahan motivasi agar santri santrinya tetap Istiqomah. 
+
 ✅ Setting target harian : santri bisa menentukan apa yang ingin dicapai, dari hafalannya setiap harinya. Santri bisa menentukan berapa ayat yang mau dihafal, surat dan ayat berapa saja yg jadi targetnya. 
+
 ✅ Setoran bersama Musyrif/guru secara virtual, dan koreksi bacaan. Bisa dilakukan via rekaman suara, yg sudah terintegrasi di aplikasi, atau melalui forum virtual yang bisa dilakukan bersama Musyrif dan rekan 1 grupnya 
 ✅ Grup setoran agar saling memotivasi : setiap santri bisa tergabung dg 1 grup setoran bersama Musyrif. Grup ini fungsinya untuk menjadi teman berfastabiqul khoirat, berlomba dalam kebaikan. Perjalanan menghafal Qur'an itu panjang, maka tidak mungkin diselesaikan seorang sendiri tanpa kawan. Grup bisa dibuat sendiri, atau mengikuti alur di sistem.
 ✅ Rekap koreksi hafalan : banyak santri yang ketika setoran mendapat koreksi kata kata atau ayat yg salah. Namun, dia kembali mengulang kesalahan yg sama di kesempatan setor berikutnya disebabkan dia lupa bagian mana saja yang ditegur oleh Musyrifnya. Untuk itu, fitur ini akan sangat bermanfaat bagi santri mengingat kembali bagian bagian yg dia masih salah atau tertukar. 
+
 ✅ Qur'an daily motivation : menghafal Qur'an bukanlah pekerjaan yang ringan, dan sebentar. Butuh energi dan baterai yang panjang umurnya. Maka, penting bagi setiap penghafal Qur'an mengisi hatinya dg nasehat dan motivasi secara rutin. Maka, fitur ini akan sangat bermanfaat untuk menjaga baterai itu tetap penuh hingga akhir perjalanan. 
+
 ✅ Murojaah mandiri dg Voice Recognition : pengembangan aplikasi murojaah mandiri ini akan membuat santri lebih fleksibel tatkala melakukan murojaah hafalan lamanya. Santri akan terbantu memperbaiki dan mengembalikan lagi ingatan atas hafalan lama, dengan tepat, dan tidak khawatir ada kesalahan, sebab ada sistem yang membantu melakukan koreksi.
+
 ✅ Mushaf Talaqqi yang akan memudahkan musyrif memberikan penilaian atau koreksi, dengan hanya sekali tekan pada huruf yang salah
 
 User cukup mendaftar dg email, dan akan bergabung dg grup tahfidz bersama seorang pembimbing, lalu bisa segera memulai program menghafalnya.
